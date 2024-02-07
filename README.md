@@ -5,7 +5,7 @@
 
 
 ## 🚀 About me
-Hello, My name is Jonas, but you can call me Jon! Currently, i'm studying my bachelors in Software Engineer I've aways loved everything about Programs and Games, Technology...
+Hello, My name is Jonas, but you can call me Jon! I'm a Software Engineer, I've aways loved everything about Programs and Games, Technology...
 I also have acknowledge in some Techs Like Java, MySql, HTML, CSS, C# and C++.
 
 
