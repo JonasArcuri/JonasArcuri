@@ -15,7 +15,7 @@ I also have acknowledge in some Techs Like Java, Javascript, HTML, CSS, React.js
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![Node](https://skillicons.dev/icons?i=node)](https://skillicons.dev)
+[![Node](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
